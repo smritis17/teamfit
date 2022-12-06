@@ -1,12 +1,12 @@
 #  Implementation
 
-##Software Imported
+## Software Imported
 
 * Firebase
 * FirebaseDatabase
 * FirebaseAuthentication
 
-##Design Decisions
+## Design Decisions
 
 * Logo: This self-designed logo describes the app with its weights but also the lifeline. This app encompasses both as the user tries to find a healthier way of life through workouts.
 
