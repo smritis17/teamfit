@@ -15,7 +15,7 @@
 * Color Choice: Blue tones can display a sense of calm, while they also represent health and healing. At the same time, the gradient buttons on the workout page allow for a sense of visual satisfaction
 
 
-##Application Decisions
+## Application Decisions
 
 ### Database Design
 The database is organized in Firebase Realtime Database and each account is separated by their uid, inside are child branches, one for personal information, and a new one created every day in "MMM-dd-yyyy" format for new data information.
