@@ -5,7 +5,7 @@ A simple and sleek fitness app to help you track your fitness journey!
 
 This is an iOS application focused on providing users with the resources they need to get into/stay in shape. The application has links to workout videos focusing on arms, legs, cardio, and abs. Not only this but the user can also track their progress through their water intake, food intake, and the number of hours they've workout out per day.
 
-##Demo Link
+## Demo Link
 https://youtu.be/UyCKuWG1Wos
 
 ## Getting Started
